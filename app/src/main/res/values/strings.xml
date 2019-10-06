@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PocApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_error">Sorry, network is not available, \n please try later</string>
+</resources>
